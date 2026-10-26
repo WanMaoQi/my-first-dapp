@@ -1,5 +1,7 @@
 # 🏗 Scaffold-ETH 2
 
+> **本仓库大作业说明（路线 B、合约地址、交易表、运行方式）见：[README_大作业.md](./README_大作业.md)**
+
 <h4 align="center">
   <a href="https://docs.scaffoldeth.io">Documentation</a> |
   <a href="https://scaffoldeth.io">Website</a>
